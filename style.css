@@ -1,0 +1,29 @@
+body {
+    background-color: #E0E0E0 !important;
+    text-align: center !important;
+    font-size: larger !important;
+}
+.col {
+    background-color: #FFFFFF !important;
+}
+h1 {
+    text-align: center !important;
+}
+p {
+    /*background-color: #FFFFFF !important;*/
+    text-align: center !important;
+    font-size: large !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: auto !important;
+}
+.about {
+    width: auto !important;
+    text-align: center !important;
+}
+.nav-item {
+    background-color: #99CCFF !important;
+}
+navbar navbar-expand-lg navbar-light:hover {
+    background-color: #FFFFFF !important;
+}
